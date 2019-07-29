@@ -1,1 +1,4 @@
 # swiper
+username
+password
+email
